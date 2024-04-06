@@ -1,4 +1,4 @@
-# Chris will be always open and pushing the cutting edge of AGI.
+# Chris will always be pushing the cutting edge of AGI.
 
 ## Current phase: LLM
 
