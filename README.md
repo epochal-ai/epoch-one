@@ -2,4 +2,4 @@
 
 ## Current phase: LLM
 
-### Mission: Increasing the probability of a democratic eutopian universe for all sentient beings.
+### Mission: Increasing the probability of a democratic utopian universe for all sentient beings.
